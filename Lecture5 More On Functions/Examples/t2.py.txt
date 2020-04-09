@@ -1,0 +1,18 @@
+x = {1: 2, 3: 4, 4: 3, 2: 1, 0: 0}
+r = sorted(x.items(), key=lambda kv: kv[1])
+print(x)
+print(r)
+
+print('..........................')
+x = {1: 2, 3: 4, 4: 3, 2: 1, 0: 0}
+r = sorted(x.items(), key=lambda kv: kv[1], reverse=True)
+print(x)
+print(r)
+
+print('.......................')
+t = [(4, 'four'), (2, 'two'), (1, 'one'), (3, 'three')]
+print(t)
+t.sort()
+print(t)
+t.sort(key=lambda x:x[1])
+print(t)

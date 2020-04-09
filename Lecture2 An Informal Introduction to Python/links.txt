@@ -1,0 +1,13 @@
+Download Python
+	https://www.python.org/downloads/
+Jupyter Notebook,
+	https://jupyter.org/
+Running Jupyter
+	https://jupyter.readthedocs.io/en/latest/running.html#running
+	
+Python Success Stories
+	https://www.python.org/about/success/
+10 Myths of Enterprise Python
+	https://www.paypal-engineering.com/2014/12/10/10-myths-of-enterprise-python/
+Python at Netflix
+	https://medium.com/netflix-techblog/python-at-netflix-86b6028b3b3e

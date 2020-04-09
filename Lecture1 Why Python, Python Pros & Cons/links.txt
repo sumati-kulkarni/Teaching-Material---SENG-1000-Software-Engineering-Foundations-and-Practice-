@@ -1,0 +1,8 @@
+Swiss Army Knife of Programming
+	http://www.eweek.com/development/why-python-continues-to-be-the-swiss-army-knife-of-programming
+Could Python replace Java as the most popular 
+	https://www.techrepublic.com/article/could-python-replace-java-as-the-most-popular-programming-language/
+The Incredible Growth of Python
+	https://stackoverflow.blog/2017/09/06/incredible-growth-python/
+World’s most popular	
+	https://www.economist.com/graphic-detail/2018/07/26/python-is-becoming-the-worlds-most-popular-coding-language

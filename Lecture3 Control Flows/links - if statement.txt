@@ -1,0 +1,6 @@
+Notepad++:
+How To Execute Python File In Notepad++
+	http://www.just.edu.jo/~zasharif/Web/SE495/Python/Notepad/HowToExecutePythonFileInNotepad.pdf
+Python Online:
+	www.python.org/shell
+	https://repl.it
